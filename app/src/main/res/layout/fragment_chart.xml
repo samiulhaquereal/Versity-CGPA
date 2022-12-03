@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".chart">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_marginLeft="@dimen/_20sdp"
+        android:textColor="@color/white"
+        android:id="@+id/textviewidchart"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Semesters"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_marginBottom="@dimen/_20sdp"
+        />
+
+    <ListView
+        android:dividerHeight="1sp"
+        android:divider="#00000000"
+        android:id="@+id/customlistid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</LinearLayout>

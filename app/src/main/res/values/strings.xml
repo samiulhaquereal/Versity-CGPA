@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">CGPA</string>
+    <string name="text1">Facing any issues ?</string>
+    <string name="text2">Go Here</string>
+    <string name="text3">Your ID :</string>
+    <string name="text4">IUBAT\n CGPA</string>
+    <string name="hint1">Enter your ID here</string>
+
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>Australia</item>
+    </string-array>
+
+    <string-array name="subject">
+        <item>Compiler Design</item>
+        <item>Operating System</item>
+        <item>Software Project</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>Summer</item>
+        <item>Spring</item>
+        <item>Fall</item>
+    </string-array>
+
+    <string-array name="result">
+        <item>3.80</item>
+        <item>4.00</item>
+        <item>3.70</item>
+    </string-array>
+    <string-array name="credit">
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="code">
+        <item>CSE221</item>
+        <item>CSE331</item>
+        <item>CSE112</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
