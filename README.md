@@ -1,7 +1,9 @@
 # Versity-CGPA
 
 This is a API based apps.In this app student can easily get their all academic result.
-Simple UI.
+We make simple UI for easy to use.
+
+We used here Java and API.
 
 Main Page :
 
